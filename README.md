@@ -121,8 +121,8 @@ NAPCO began offering conversions for Chevrolet trucks in 1954, making 1955 First
 - [ ] Create comprehensive parts catalog with cross-references
 - [ ] Document disassembly with detailed photography
 - [ ] Record original paint codes and trim specifications
-- [ ] Map wiring diagrams and electrical systems
-- [ ] Compile service manual excerpts and technical data
+- [x] Map wiring diagrams and electrical systems *(1954-1955 diagrams downloaded)*
+- [x] Compile service manual excerpts and technical data *(Assembly manual downloaded)*
 
 ### Restoration
 - [ ] Assess current condition and create restoration plan
@@ -155,7 +155,11 @@ NAPCO began offering conversions for Chevrolet trucks in 1954, making 1955 First
 │   │   └── parts-catalog.md           # Parts inventory & tracking
 │   │
 │   └── manuals/
-│       └── README.md                  # Service manual index
+│       ├── README.md                  # Service manual index
+│       ├── wiring/                    # Wiring diagrams (1954-1955)
+│       ├── assembly/                  # Factory assembly manuals
+│       ├── operators/                 # Owner's manuals
+│       └── napco/                     # NAPCO-specific documentation
 │
 ├── photos/
 │   ├── README.md                      # Photo organization guide
