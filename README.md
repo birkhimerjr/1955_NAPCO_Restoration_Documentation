@@ -2,7 +2,7 @@
 
 ## Research, Documentation & Restoration Project
 
-This repository documents the research, parts sourcing, and restoration of a 1955 Chevrolet 1st Series (Task Force) pickup truck equipped with a NAPCO 4-wheel drive conversion.
+This repository documents the research, parts sourcing, and restoration of a **1955 Chevrolet 1st Series (Advance Design)** pickup truck equipped with a NAPCO 4-wheel drive conversion.
 
 ---
 
@@ -22,28 +22,38 @@ This repository documents the research, parts sourcing, and restoration of a 195
 
 ## About the Vehicle
 
-### 1955 Chevrolet Task Force Pickup
+### 1955 Chevrolet 1st Series (Advance Design)
 
-The 1955 Chevrolet pickup marked the beginning of the iconic "Task Force" truck series (1955-1959), representing a complete redesign from the Advance Design trucks. This was a revolutionary design that set the standard for American trucks.
+The 1955 First Series trucks are the **final year of the Advance Design generation** (1947-1955), produced from late 1954 through early 1955 before the Second Series "Task Force" trucks were introduced in March 1955. These trucks represent the pinnacle of the Advance Design era.
 
 **Key Features:**
-- **Wraparound windshield** - First in any truck, 20% more glass
-- **Lowered hood line** - Improved forward visibility
-- **Egg-crate grille** - Distinctive, bold styling
-- **First V8 option** - 265ci Turbo-Fire available
-- **Modern cab design** - Panoramic visibility
+- **Two-piece windshield** - Classic split windshield design
+- **Alligator hood** - Traditional front-opening hood
+- **5-bar grille** - Horizontal bar grille design
+- **Proven inline-6 engine** - 235ci Thriftmaster
+- **Rugged design** - Eight years of refinement
 
-The 1955 Second Series (Task Force) trucks were introduced in March 1955 and quickly became popular with both commercial and personal-use buyers.
+### 1955 First Series vs Second Series
 
-### Why 1955 NAPCO Trucks Are Special
+| Feature | 1955 First Series (Your Truck) | 1955 Second Series |
+|---------|-------------------------------|-------------------|
+| **Also Known As** | Advance Design | Task Force |
+| **Production Period** | Late 1954 - Early 1955 | March 1955 - Late 1955 |
+| **Windshield** | Two-piece flat | Wraparound one-piece |
+| **Hood** | Alligator (front-hinged) | Rear-hinged |
+| **Grille** | 5-bar horizontal | Egg-crate pattern |
+| **V8 Option** | Not available | First year available |
+| **Dashboard** | 1954 carryover | All-new design |
+
+### Why 1955 First Series NAPCO Trucks Are Special
 
 | Factor | Significance |
 |--------|--------------|
-| **First year of Task Force** | Beginning of iconic design era |
-| **NAPCO rarity** | Estimated <1,000 1955 NAPCO trucks built |
-| **V8 availability** | First year Chevy offered V8 in trucks |
-| **Collector demand** | Among most sought-after vintage trucks |
-| **Historical importance** | Bridge between work trucks and personal vehicles |
+| **Final Advance Design year** | Last of an iconic 8-year design run |
+| **Extreme rarity with NAPCO** | Very few First Series trucks received NAPCO |
+| **Transitional year** | Bridge between two great truck eras |
+| **Collector demand** | Highly sought after by enthusiasts |
+| **Historical importance** | Represents peak of Advance Design evolution |
 
 ---
 
@@ -58,7 +68,7 @@ The 1955 Second Series (Task Force) trucks were introduced in March 1955 and qui
 - **Warranty compatible** - Maintained factory warranty
 - **Complete system** - Transfer case, front axle, and all hardware
 
-NAPCO proved that light-duty trucks could successfully handle off-road conditions, directly influencing GM's decision to offer factory 4WD starting in 1960.
+NAPCO began offering conversions for Chevrolet trucks in 1954, making 1955 First Series trucks among the earliest Chevrolet applications.
 
 ### NAPCO System Components
 
@@ -102,9 +112,10 @@ NAPCO proved that light-duty trucks could successfully handle off-road condition
 ### Research
 - [x] Document original NAPCO specifications and part numbers
 - [ ] Compile factory documentation and dealer literature
-- [ ] Identify VIN decoding for 1955 NAPCO trucks
+- [ ] Identify VIN decoding for 1955 First Series NAPCO trucks
 - [ ] Research production numbers and surviving examples
 - [ ] Document known NAPCO suppliers and service providers
+- [ ] Document differences between 1954 and 1955 First Series
 
 ### Documentation
 - [ ] Create comprehensive parts catalog with cross-references
@@ -132,11 +143,12 @@ NAPCO proved that light-duty trucks could successfully handle off-road condition
 ├── docs/
 │   ├── history/
 │   │   ├── napco-history.md           # Complete NAPCO company history
-│   │   └── 1955-chevrolet-truck-history.md
+│   │   ├── 1955-first-series-history.md    # Advance Design history
+│   │   └── 1955-second-series-history.md   # Task Force reference
 │   │
 │   ├── specifications/
 │   │   ├── napco-technical-specifications.md  # Detailed NAPCO specs
-│   │   ├── 1955-chevrolet-truck-specifications.md
+│   │   ├── 1955-first-series-specifications.md # Your truck's specs
 │   │   └── rear-axle-specifications.md        # Rear diff & axle specs
 │   │
 │   ├── parts/
@@ -171,20 +183,20 @@ NAPCO proved that light-duty trucks could successfully handle off-road condition
 
 ## Quick Reference
 
-### Key Specifications (1955 Chevrolet 3100 NAPCO)
+### Key Specifications (1955 Chevrolet 1st Series 3100 NAPCO)
 
 | Specification | Detail |
 |--------------|--------|
-| **Model Year** | 1955 Second Series (Task Force) |
+| **Model Year** | 1955 First Series (Advance Design) |
 | **Series** | 3100 (1/2 ton) |
-| **Wheelbase** | 114 inches |
-| **Engine Options** | 235ci I6 (123hp), 265ci V8 (145hp) |
+| **Wheelbase** | 116 inches |
+| **Engine** | 235ci Thriftmaster I6 (112hp) |
 | **Transmission** | 3-speed manual (std), 4-speed optional |
 | **NAPCO Option** | Powr-Pak 4x4 conversion |
 | **Transfer Case** | NAPCO Model 203, 2-speed |
 | **Front Axle** | Dana/Spicer 44 |
-| **Front Axle Ratio** | Match rear (3.73, 4.10, 4.56) |
-| **Ground Clearance** | ~8.5" (vs 7.5" 2WD) |
+| **Windshield** | Two-piece flat glass |
+| **Hood Type** | Alligator (front-opening) |
 
 ### NAPCO Gear Ratios
 
@@ -202,7 +214,7 @@ NAPCO proved that light-duty trucks could successfully handle off-road condition
 | Front Differential | 2.5 pints | 80W-90 GL-5 |
 | Rear Differential | 3.5 pints | 80W-90 GL-5 |
 
-> **[Complete specifications →](docs/specifications/napco-technical-specifications.md)**
+> **[Complete specifications →](docs/specifications/1955-first-series-specifications.md)**
 
 ---
 
@@ -212,7 +224,7 @@ NAPCO proved that light-duty trucks could successfully handle off-road condition
 
 1. **Read the history** - Understand what makes your truck special
    - [NAPCO History](docs/history/napco-history.md)
-   - [1955 Chevrolet Truck History](docs/history/1955-chevrolet-truck-history.md)
+   - [1955 First Series History](docs/history/1955-first-series-history.md)
 
 2. **Document your truck** - Before touching anything
    - Photograph everything (see [Photo Guide](photos/README.md))
@@ -221,7 +233,8 @@ NAPCO proved that light-duty trucks could successfully handle off-road condition
 
 3. **Understand the specifications**
    - [NAPCO Technical Specifications](docs/specifications/napco-technical-specifications.md)
-   - [1955 Chevrolet Specifications](docs/specifications/1955-chevrolet-truck-specifications.md)
+   - [1955 First Series Specifications](docs/specifications/1955-first-series-specifications.md)
+   - [Rear Axle Specifications](docs/specifications/rear-axle-specifications.md)
 
 4. **Start tracking**
    - Log work sessions in [Work Log](logs/work-log.md)
@@ -239,13 +252,14 @@ NAPCO proved that light-duty trucks could successfully handle off-road condition
 | Document | Description |
 |----------|-------------|
 | [NAPCO History](docs/history/napco-history.md) | Complete history of Northwestern Auto Parts Company |
-| [1955 Truck History](docs/history/1955-chevrolet-truck-history.md) | History of the Task Force design |
+| [1955 First Series History](docs/history/1955-first-series-history.md) | History of your Advance Design truck |
+| [1955 Second Series History](docs/history/1955-second-series-history.md) | Task Force reference (for comparison) |
 
 ### Technical Specifications
 | Document | Description |
 |----------|-------------|
 | [NAPCO Specifications](docs/specifications/napco-technical-specifications.md) | Transfer case, front axle, gear ratios, torque specs |
-| [1955 Truck Specifications](docs/specifications/1955-chevrolet-truck-specifications.md) | Engine, transmission, dimensions, colors |
+| [1955 First Series Specifications](docs/specifications/1955-first-series-specifications.md) | Engine, transmission, dimensions, colors |
 | [Rear Axle Specifications](docs/specifications/rear-axle-specifications.md) | Differential, gear ratios, bearings, rebuild specs |
 
 ### Parts & Sourcing
@@ -272,30 +286,25 @@ NAPCO proved that light-duty trucks could successfully handle off-road condition
 
 ## Resources
 
-### NAPCO Community
-- NAPCO 4x4 Registry
+### Advance Design Community
+- Advance Design trucks forum
 - The 1947-Present Chevrolet & GMC Truck Message Board
+- NAPCO 4x4 Registry
 - Vintage NAPCO Facebook groups
-- NAPCO owners' email lists
 
 ### Technical References
-- 1955 Chevrolet Truck Shop Manual
+- 1955 Chevrolet Truck Shop Manual (First Series)
 - NAPCO Installation and Service Manual
 - Dana/Spicer Axle Service Manual
 - GM Parts Counter Catalogs
 
 ### Major Parts Suppliers
 - **LMC Truck** - General truck parts
-- **Brothers Trucks** - Task Force specialists
-- **Classic Parts of America** - Comprehensive catalog
-- **Randy's Ring & Pinion** - Axle components
+- **Classic Parts of America** - Advance Design specialists
+- **Jim Carter Truck Parts** - Used and NOS parts
+- **Mar-K Quality Parts** - Bed wood and metal
 
 > **[Complete suppliers list →](resources/suppliers/parts-suppliers.md)**
-
-### Recommended Reading
-- *Chevrolet Pickups 1946-1972* by John Gunnell
-- Period truck magazines (archived)
-- Hemmings publications
 
 ---
 
@@ -326,21 +335,10 @@ This is a personal restoration project, but contributions of historical informat
 ### Types of Contributions Welcomed
 - Historical documentation and photos
 - Technical corrections and clarifications
-- Period-correct specifications
+- Period-correct specifications for 1955 First Series
 - NAPCO production information
 - Parts cross-reference data
 - Supplier recommendations
-
-### How to Contribute
-- Open an issue with information or corrections
-- Submit pull requests with documentation updates
-- Share through vintage truck forums and communities
-
----
-
-## Acknowledgments
-
-This project builds on the knowledge shared by the vintage truck community, NAPCO enthusiasts, and generations of restorers who have preserved these remarkable vehicles.
 
 ---
 
@@ -370,4 +368,4 @@ This documentation is for personal research and educational purposes. Historical
 
 ---
 
-> *"A NAPCO truck is not just a vehicle—it's a piece of American engineering history that proved light-duty trucks could go anywhere."*
+> *"A 1955 First Series NAPCO truck represents the perfect combination of proven Advance Design reliability with go-anywhere 4-wheel drive capability—a rare piece of American automotive history."*
