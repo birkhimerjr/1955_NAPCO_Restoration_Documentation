@@ -113,7 +113,7 @@ First year for V8 power in Chevrolet trucks!
 | Specification | Value |
 |---------------|-------|
 | **Type** | Synchromesh (2nd & 3rd) |
-| **1st Gear** | 2.95:1 |
+| **1st Gear** | 2.94:1 |
 | **2nd Gear** | 1.68:1 |
 | **3rd Gear** | 1.00:1 |
 | **Reverse** | 3.67:1 |

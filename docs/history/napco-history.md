@@ -56,7 +56,7 @@ The complete Powr-Pak conversion included:
 │  ┌─────────────┐    ┌─────────────┐    ┌─────────────┐     │
 │  │  TRANSFER   │    │   FRONT     │    │   FRONT     │     │
 │  │    CASE     │────│ DRIVESHAFT  │────│    AXLE     │     │
-│  │  Model 203  │    │             │    │  Dana 44    │     │
+│  │   Spicer    │    │             │    │  Dana 44    │     │
 │  └─────────────┘    └─────────────┘    └─────────────┘     │
 │         │                                    │              │
 │         │           ┌─────────────┐          │              │
@@ -92,16 +92,45 @@ NAPCO conversions were available for:
 
 ## GM Relationship
 
-### Factory Authorization
+### Evolution of NAPCO Installation
 
-Unlike many aftermarket conversions, NAPCO achieved a unique status with General Motors:
+The relationship between NAPCO and General Motors evolved significantly over the years:
 
-- **Dealer-installed option** - Available at GM dealerships
-- **Listed in order guides** - Dealers could order trucks with NAPCO installed
-- **Factory warranty compatible** - When properly installed
-- **GM parts distribution** - Some components ordered through GM channels
+#### Phase 1: Dealer/Aftermarket Installation (1954-1955)
 
-### Sales Process
+Initially, all NAPCO Powr-Pak conversions were performed at the dealer level or by authorized installers:
+
+- **1954:** NAPCO Powr-Pak system introduced as aftermarket conversion
+- **1955:** Second full year of dealer-installed conversions
+- **All 1955 First Series (Advance Design) trucks with NAPCO are dealer conversions**
+
+#### Phase 2: GMC Factory Installation Begins (1956)
+
+In 1956, GMC became the first GM division to offer factory-installed NAPCO:
+
+- **GMC trucks could be ordered with NAPCO installed at the factory**
+- Simplified the ordering process for dealers and customers
+- Maintained the same Powr-Pak components
+
+#### Phase 3: Chevrolet Factory Installation (1957)
+
+In 1957, Chevrolet followed GMC with factory installation:
+
+- **RPO 690** - Regular Production Option code for factory NAPCO
+- Chevrolet trucks could now be ordered with factory-installed 4WD
+- Streamlined production and reduced dealer installation burden
+
+### Installation Timeline Summary
+
+| Year | Chevrolet | GMC |
+|------|-----------|-----|
+| **1954** | Dealer-installed only | Dealer-installed only |
+| **1955** | Dealer-installed only | Dealer-installed only |
+| **1956** | Dealer-installed only | **Factory installation available** |
+| **1957** | **Factory installation (RPO 690)** | Factory installation available |
+| **1958-1959** | Factory installation available | Factory installation available |
+
+### Sales Process (Dealer Installation Era: 1954-1955)
 
 ```
 Customer Orders       GM Builds           Truck Shipped        NAPCO System
@@ -114,10 +143,10 @@ Customer Orders       GM Builds           Truck Shipped        NAPCO System
 
 ### Production Coordination
 
-While not technically "factory" 4x4s, the close relationship meant:
+Even before factory installation was available, the close relationship meant:
 - Trucks destined for NAPCO conversion sometimes had preparation done at the factory
 - Stronger rear axles and suspension were often specified
-- Some documentation treated NAPCO as a factory option
+- Dealers could order trucks specifically configured for NAPCO conversion
 
 ---
 
@@ -164,7 +193,7 @@ Converting a standard truck to NAPCO specification required:
 
 ### Transfer Case Design
 
-The NAPCO Model 203 transfer case featured:
+The NAPCO Spicer transfer case with Dual-Range Hi-Lo featured:
 
 - **Part-time 4WD** - Engaged only when needed
 - **2-speed capability** - High and Low range
@@ -216,10 +245,10 @@ After the war, NAPCO systems found use in:
 
 Several factors contributed to NAPCO's decline:
 
-1. **Factory 4x4 options** - GM began offering factory 4WD in 1960
+1. **Factory 4x4 options** - GM began factory-installed NAPCO (GMC in 1956, Chevrolet RPO 690 in 1957), and by 1960 introduced their own factory 4WD systems
 2. **International Harvester** - Had factory 4WD earlier
 3. **Jeep dominance** - Purpose-built 4x4 vehicles
-4. **Cost considerations** - Factory 4WD was more cost-effective
+4. **Cost considerations** - Factory-integrated 4WD was more cost-effective
 
 ### End of Production (1961)
 
@@ -296,20 +325,23 @@ Resources for NAPCO enthusiasts:
    │
 1940s ─── Company gains drivetrain expertise
    │
-1954 ──── Powr-Pak 4x4 system introduced
+1954 ──── Powr-Pak 4x4 system introduced (dealer-installed only)
    │
-1955 ──── First full production year
-   │       GM Task Force trucks launched
+1955 ──── First full production year (dealer-installed only)
+   │       GM Task Force trucks launched (March 1955)
+   │       1955 First Series NAPCO = all dealer conversions
    │
-1956 ──── Production increases
+1956 ──── GMC begins factory-installed NAPCO
+   │       Chevrolet remains dealer-installed only
    │
-1957 ──── Peak production year
+1957 ──── Chevrolet begins factory-installed NAPCO (RPO 690)
+   │       Peak production year
    │
 1958 ──── Competition from other 4WD options
    │
 1959 ──── Final year of Task Force styling
    │
-1960 ──── GM introduces factory 4WD option
+1960 ──── GM introduces own factory 4WD system
    │
 1961 ──── NAPCO 4WD production ends
    │

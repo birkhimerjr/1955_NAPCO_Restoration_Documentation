@@ -27,7 +27,7 @@ This repository documents the research, parts sourcing, and restoration of a **1
 The 1955 First Series trucks are the **final year of the Advance Design generation** (1947-1955), produced from late 1954 through early 1955 before the Second Series "Task Force" trucks were introduced in March 1955. These trucks represent the pinnacle of the Advance Design era.
 
 **Key Features:**
-- **Two-piece windshield** - Classic split windshield design
+- **One-piece curved windshield** - Updated design introduced in 1954
 - **Alligator hood** - Traditional front-opening hood
 - **5-bar grille** - Horizontal bar grille design
 - **Proven inline-6 engine** - 235ci Thriftmaster
@@ -39,7 +39,7 @@ The 1955 First Series trucks are the **final year of the Advance Design generati
 |---------|-------------------------------|-------------------|
 | **Also Known As** | Advance Design | Task Force |
 | **Production Period** | Late 1954 - Early 1955 | March 1955 - Late 1955 |
-| **Windshield** | Two-piece flat | Wraparound one-piece |
+| **Windshield** | One-piece curved | Wraparound one-piece |
 | **Hood** | Alligator (front-hinged) | Rear-hinged |
 | **Grille** | 5-bar horizontal | Egg-crate pattern |
 | **V8 Option** | Not available | First year available |
@@ -80,7 +80,7 @@ NAPCO began offering conversions for Chevrolet trucks in 1954, making 1955 First
                              │
                     ┌────────▼────────┐
                     │  TRANSFER CASE  │
-                    │   NAPCO 203     │
+                    │     Spicer      │
                     │   (2-speed)     │
                     └───┬─────────┬───┘
                         │         │
@@ -96,7 +96,7 @@ NAPCO began offering conversions for Chevrolet trucks in 1954, making 1955 First
 
 | Component | Description |
 |-----------|-------------|
-| Transfer Case | NAPCO Model 203, 2-speed (Hi/Lo) |
+| Transfer Case | Spicer with Dual-Range Hi-Lo, 2-speed |
 | Front Axle | Dana/Spicer 44 with NAPCO steering knuckles |
 | Front Driveshaft | Custom length, Spicer 1310 U-joints |
 | Shifter | Floor-mounted single lever |
@@ -189,13 +189,13 @@ NAPCO began offering conversions for Chevrolet trucks in 1954, making 1955 First
 |--------------|--------|
 | **Model Year** | 1955 First Series (Advance Design) |
 | **Series** | 3100 (1/2 ton) |
-| **Wheelbase** | 116 inches |
+| **Wheelbase** | 114 inches |
 | **Engine** | 235ci Thriftmaster I6 (112hp) |
 | **Transmission** | 3-speed manual (std), 4-speed optional |
 | **NAPCO Option** | Powr-Pak 4x4 conversion |
-| **Transfer Case** | NAPCO Model 203, 2-speed |
+| **Transfer Case** | Spicer with Dual-Range Hi-Lo |
 | **Front Axle** | Dana/Spicer 44 |
-| **Windshield** | Two-piece flat glass |
+| **Windshield** | One-piece curved glass |
 | **Hood Type** | Alligator (front-opening) |
 
 ### NAPCO Gear Ratios

@@ -70,9 +70,9 @@ Some trucks may show variations:
 
 | Full Series | Description | GVW |
 |-------------|-------------|-----|
-| **3100** | 1/2 Ton, 116" WB | 4,600 lbs |
-| **3100** | 1/2 Ton, 125.25" WB | 4,600 lbs |
-| **3600** | 3/4 Ton, 125.25" WB | 5,800 lbs |
+| **3100** | 1/2 Ton, 114" WB | 4,600 lbs |
+| **3100** | 1/2 Ton, 123.25" WB | 4,600 lbs |
+| **3600** | 3/4 Ton, 123.25" WB | 5,800 lbs |
 | **3800** | 1 Ton, 137" WB | 8,600 lbs |
 
 ---
@@ -268,7 +268,7 @@ NAPCO-equipped trucks have identification on the transfer case:
 │   NORTHWESTERN AUTO PARTS   │
 │     MINNEAPOLIS, MINN       │
 │                             │
-│   MODEL: 203                │
+│   MODEL: Spicer             │
 │   SERIAL: XXXXX             │
 │                             │
 └─────────────────────────────┘
@@ -303,7 +303,7 @@ Before decoding, confirm you have a First Series truck:
 
 | Feature | First Series (Advance Design) | Second Series (Task Force) |
 |---------|------------------------------|---------------------------|
-| **Windshield** | Two-piece flat OR one-piece flat | One-piece wraparound |
+| **Windshield** | One-piece curved glass | One-piece wraparound |
 | **Hood** | Alligator (front-hinged) | Rear-hinged |
 | **Grille** | 5 horizontal bars | Egg-crate |
 | **Serial Number** | 3X55-##### format | HX55-##### format |
@@ -381,7 +381,7 @@ For valuable trucks, consider:
 
 | Item | Your Truck | Notes |
 |------|------------|-------|
-| **Transfer Case Model** | | Usually 203 |
+| **Transfer Case Model** | | Spicer |
 | **Transfer Case Serial** | | From tag |
 | **Front Axle Type** | | Dana 44 |
 | **Front Axle Casting** | | |

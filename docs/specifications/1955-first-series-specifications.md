@@ -30,9 +30,9 @@
 
 | Series | Tonnage | GVW Rating | Wheelbase | Notes |
 |--------|---------|------------|-----------|-------|
-| **3100** | 1/2 Ton | 4,600 lbs | 116" | Most common |
-| **3100** | 1/2 Ton | 4,600 lbs | 125.25" | Long wheelbase |
-| **3600** | 3/4 Ton | 5,800 lbs | 125.25" | Heavy duty |
+| **3100** | 1/2 Ton | 4,600 lbs | 114" | Most common |
+| **3100** | 1/2 Ton | 4,600 lbs | 123.25" | Long wheelbase |
+| **3600** | 3/4 Ton | 5,800 lbs | 123.25" | Heavy duty |
 | **3800** | 1 Ton | 8,600 lbs | 137" | Heaviest duty |
 
 ### Body Styles
@@ -141,7 +141,7 @@ Located on the cowl, this plate contains:
 |---------------|-------|
 | **Type** | Synchromesh (2nd & 3rd gears) |
 | **Designation** | Muncie SM420 or Saginaw |
-| **1st Gear Ratio** | 2.95:1 |
+| **1st Gear Ratio** | 2.94:1 |
 | **2nd Gear Ratio** | 1.68:1 |
 | **3rd Gear Ratio** | 1.00:1 |
 | **Reverse Ratio** | 3.67:1 |
@@ -155,11 +155,11 @@ Located on the cowl, this plate contains:
 |---------------|-------|
 | **Type** | Synchromesh (2nd, 3rd, 4th gears) |
 | **Designation** | SM420 |
-| **1st Gear Ratio** | 6.55:1 |
+| **1st Gear Ratio** | 7.06:1 |
 | **2nd Gear Ratio** | 3.58:1 |
 | **3rd Gear Ratio** | 1.70:1 |
 | **4th Gear Ratio** | 1.00:1 |
-| **Reverse Ratio** | 6.55:1 |
+| **Reverse Ratio** | 7.06:1 |
 | **Shift Pattern** | Floor shift |
 | **Lubricant** | SAE 80W gear oil |
 | **Capacity** | 3.5 pints |
@@ -260,7 +260,7 @@ Powerglide automatic was available but uncommon in trucks:
 | **Type** | Worm and roller (cam and lever) |
 | **Ratio** | 24:1 |
 | **Steering Wheel Diameter** | 18" |
-| **Turning Circle** | 43' (116" wheelbase) |
+| **Turning Circle** | 43' (114" wheelbase) |
 | **Power Steering** | Not available |
 | **Steering Column** | Floor shift or column shift |
 | **Lubricant** | SAE 90 gear oil |
@@ -374,11 +374,11 @@ Powerglide automatic was available but uncommon in trucks:
 
 ## Dimensions
 
-### Overall Dimensions (3100 Pickup, 116" WB)
+### Overall Dimensions (3100 Pickup, 114" WB)
 
 | Dimension | Value |
 |-----------|-------|
-| **Wheelbase** | 116" |
+| **Wheelbase** | 114" |
 | **Overall Length** | 188.25" |
 | **Overall Width** | 76.5" |
 | **Overall Height** | 74.5" (cab) |
@@ -401,7 +401,7 @@ Powerglide automatic was available but uncommon in trucks:
 
 ### Pickup Bed Dimensions (Stepside)
 
-| Dimension | 116" WB | 125.25" WB |
+| Dimension | 114" WB | 123.25" WB |
 |-----------|---------|------------|
 | **Length (floor)** | 78" | 98" |
 | **Width (floor)** | 50" | 50" |
@@ -571,7 +571,7 @@ To confirm you have a 1955 First Series (not Second Series):
 
 | Check | First Series | Second Series |
 |-------|--------------|---------------|
-| **Windshield** | Two-piece flat OR one-piece flat (Deluxe) | One-piece wraparound |
+| **Windshield** | One-piece curved glass | One-piece wraparound |
 | **Hood** | Alligator (front-opening) | Rear-hinged |
 | **Grille** | 5 horizontal bars | Egg-crate pattern |
 | **Dashboard** | 1954-style | All-new modern design |
@@ -606,7 +606,7 @@ Record your specific truck's information here:
 | Item | Value | Notes |
 |------|-------|-------|
 | **Series** | | 3100, 3600, 3800 |
-| **Wheelbase** | | 116", 125.25", 137" |
+| **Wheelbase** | | 114", 123.25", 137" |
 | **Engine Number** | | |
 | **Transmission Type** | | 3-spd, 4-spd, Powerglide |
 | **Rear Axle Ratio** | | |

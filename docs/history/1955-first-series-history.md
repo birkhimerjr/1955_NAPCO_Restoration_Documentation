@@ -33,8 +33,8 @@ The Advance Design trucks were introduced for the 1947 model year as Chevrolet's
 | **1950** | Vent windows added, push-button door handles |
 | **1951** | New dashboard design |
 | **1952** | Revised grille |
-| **1953** | One-piece windshield option (Deluxe) |
-| **1954** | New grille, automatic transmission available |
+| **1953** | Minor refinements |
+| **1954** | One-piece curved windshield (all models), new grille, automatic transmission |
 | **1955 1st Series** | Final year, running changes, NAPCO 4x4 popular |
 
 ### Production Timeline
@@ -68,13 +68,13 @@ The 1955 First Series trucks are distinguished by:
 1. **Final Advance Design year** - Last trucks of this generation
 2. **Most refined version** - Eight years of improvements
 3. **Transitional production** - Built alongside early Second Series
-4. **NAPCO availability** - Second year of factory-authorized 4x4
+4. **NAPCO availability** - Second year of dealer-installed 4x4 conversions
 
 ### Identifying a 1955 First Series
 
 | Feature | 1955 First Series | 1955 Second Series |
 |---------|-------------------|-------------------|
-| **Windshield** | Two-piece flat (or one-piece Deluxe) | Wraparound one-piece |
+| **Windshield** | One-piece curved glass | Wraparound one-piece |
 | **Hood** | Alligator style (front-hinged) | Rear-hinged |
 | **Grille** | Five horizontal bars | Egg-crate pattern |
 | **Dashboard** | 1954 style carryover | All-new design |
@@ -141,10 +141,10 @@ The Advance Design platform offered some advantages for NAPCO conversion:
 
 | Series | Tonnage | Wheelbase | Body Styles |
 |--------|---------|-----------|-------------|
-| **3100** | 1/2 Ton | 116" | Pickup, Panel, Suburban, Canopy |
-| **3600** | 3/4 Ton | 125.25" | Pickup, Stake, Platform |
+| **3100** | 1/2 Ton | 114" | Pickup, Panel, Suburban, Canopy |
+| **3600** | 3/4 Ton | 123.25" | Pickup, Stake, Platform |
 | **3800** | 1 Ton | 137" | Pickup, Stake, Platform |
-| **3100** | 1/2 Ton | 125.25" | Long bed Pickup |
+| **3100** | 1/2 Ton | 123.25" | Long bed Pickup |
 
 ### Pickup Bed Styles
 
@@ -176,7 +176,7 @@ The Advance Design platform offered some advantages for NAPCO conversion:
 - Door armrests
 - Cigarette lighter
 - Dual sun visors
-- One-piece windshield (some)
+- One-piece curved windshield (standard)
 
 ---
 
@@ -195,9 +195,9 @@ The Advance Design platform offered some advantages for NAPCO conversion:
     ┌──────────────────┴──────────────────┐
     │                                     │
     │    ┌───────────────────────────┐    │
-    │    │   TWO-PIECE WINDSHIELD    │    │
-    │    │          or               │    │
-    │    │   ONE-PIECE (Deluxe)      │    │
+    │    │   ONE-PIECE CURVED        │    │
+    │    │      WINDSHIELD           │    │
+    │    │   (Introduced 1954)       │    │
     │    └───────────────────────────┘    │
     │                                     │
     └─────────────────────────────────────┘
@@ -321,7 +321,7 @@ For reference, here's how your First Series compares to the Second Series that f
 | **Years Produced** | 1947-1955 | 1955-1959 |
 | **Styling** | Classic, refined | Modern, revolutionary |
 | **V8 Option** | No | Yes (265ci) |
-| **Windshield** | Flat (2-piece or 1-piece) | Wraparound |
+| **Windshield** | One-piece curved | Wraparound |
 | **Parts Interchangeability** | 1947-1955 parts fit | Mostly unique |
 | **Collector Status** | Highly collectible | Highly collectible |
 | **NAPCO Rarity** | Extremely rare | Rare |
@@ -347,7 +347,7 @@ For 1955 First Series NAPCO trucks:
 
 The 1955 Chevrolet First Series represents the culmination of the Advance Design era—eight years of continuous improvement resulting in the most refined version of this iconic design. When equipped with NAPCO 4-wheel drive, these trucks gained capabilities that made them invaluable for demanding work conditions.
 
-Today, surviving 1955 First Series NAPCO trucks are exceptionally rare and highly prized by collectors who appreciate both the classic Advance Design styling and the engineering significance of early factory-authorized 4-wheel drive.
+Today, surviving 1955 First Series NAPCO trucks are exceptionally rare and highly prized by collectors who appreciate both the classic Advance Design styling and the engineering significance of early dealer-installed 4-wheel drive conversions. Note that factory-installed NAPCO did not become available until 1956 for GMC and 1957 for Chevrolet (RPO 690), making all 1955 First Series NAPCO trucks dealer or aftermarket conversions.
 
 Your 1955 First Series NAPCO truck is a genuine piece of American automotive history.
 

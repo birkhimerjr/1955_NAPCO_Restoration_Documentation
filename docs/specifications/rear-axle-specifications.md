@@ -225,7 +225,7 @@ Similar to 3600 but with heavier duty components:
 Final Drive Ratio = Transmission Ratio × Transfer Case Ratio × Axle Ratio
 
 Example: 1st gear crawl with 3-speed, NAPCO low, 4.11 axle:
-= 2.95 × 1.94 × 4.11 = 23.53:1 crawl ratio
+= 2.94 × 1.94 × 4.11 = 23.45:1 crawl ratio
 ```
 
 ### Speedometer Calibration

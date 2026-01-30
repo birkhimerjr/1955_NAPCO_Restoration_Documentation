@@ -36,7 +36,7 @@ The NAPCO (Northwestern Auto Parts Company) Powr-Pak system was a complete 4-whe
                              │
                     ┌────────▼────────┐
                     │  TRANSFER CASE  │
-                    │   NAPCO 203     │
+                    │     Spicer      │
                     └───┬─────────┬───┘
                         │         │
            Front Output │         │ Rear Output
@@ -61,15 +61,15 @@ The NAPCO (Northwestern Auto Parts Company) Powr-Pak system was a complete 4-whe
 
 ## Transfer Case Specifications
 
-### NAPCO Model 203 Transfer Case
+### Spicer Transfer Case with Dual-Range Hi-Lo
 
-The heart of the NAPCO system, the Model 203 transfer case provided 2-speed capability with part-time 4WD.
+The heart of the NAPCO system, the Spicer transfer case provided 2-speed capability with part-time 4WD.
 
 #### General Specifications
 
 | Specification | Value |
 |---------------|-------|
-| **Model** | NAPCO 203 |
+| **Model** | Spicer (Dual-Range Hi-Lo) |
 | **Type** | Part-time 4WD, 2-speed |
 | **Case Material** | Cast iron |
 | **Input** | Splined to transmission output shaft |
@@ -317,8 +317,8 @@ Both front and rear axles must have matching gear ratios.
 ```
 Crawl Ratio = Trans 1st Gear × T-Case Low × Axle Ratio
 
-Example with 3-speed trans (2.95:1), NAPCO low (1.94:1), 4.10 axles:
-Crawl Ratio = 2.95 × 1.94 × 4.10 = 23.47:1
+Example with 3-speed trans (2.94:1), NAPCO low (1.94:1), 4.10 axles:
+Crawl Ratio = 2.94 × 1.94 × 4.10 = 23.39:1
 ```
 
 ---
@@ -397,7 +397,7 @@ Crawl Ratio = 2.95 × 1.94 × 4.10 = 23.47:1
 
 | Description | NAPCO P/N | Notes |
 |-------------|-----------|-------|
-| Transfer case assembly | 203-xxx | Suffix varies by application |
+| Transfer case assembly | Spicer | NAPCO-specific Spicer unit |
 | Input shaft | | |
 | Shift lever | | |
 | Gasket set | | |
