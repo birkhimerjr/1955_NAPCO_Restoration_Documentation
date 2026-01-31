@@ -318,11 +318,12 @@ NAPCO began offering conversions for Chevrolet trucks in 1954, making 1955 First
 
 | Item | Value | Notes |
 |------|-------|-------|
+| **Serial Number** | H55J006591 | Per Chevrolet data plate |
 | **VIN** | | Not visible in photos - check door jamb or frame |
 | **Engine Number** | | 105 HP @ 3600 RPM (per data plate) |
 | **Body Number** | | |
-| **NAPCO Transfer Case #** | Model 5104, Serial 4C5007 | Tag on transfer case housing |
-| **NAPCO Axle #** | Model 5107, Serial 4C5007 | Tag on front axle, Ratio 5.83:1 |
+| **NAPCO Transfer Case #** | Model 3104, Serial 4C5007 | Tag on transfer case housing |
+| **NAPCO Front Axle #** | Model 3104, Serial 4C5007 | Tag on front axle, Ratio 3.9:1 |
 | **Paint Code** | Two-tone: White over Red | White cab/roof, red body/fenders |
 | **Trim Code** | | |
 | **Date Acquired** | | |
