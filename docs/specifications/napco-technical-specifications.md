@@ -111,30 +111,48 @@ The heart of the NAPCO system, the Spicer transfer case provided 2-speed capabil
 | Seals | 3 | Front, rear, and shift rail |
 | Shift fork | 2 | Range and 4WD engagement |
 
+#### NAPCO Model Numbers (Transfer Case)
+
+| Application | NAPCO Model | Notes |
+|-------------|-------------|-------|
+| 1955-1959 Chevrolet 3100 (½ ton) | 3104 | Matches front axle model |
+| 1955-1959 Chevrolet 3600 (¾ ton) | 3604 | Heavier duty |
+
 #### Identification
 
 - **Serial Number Location:** Stamped on machined pad, driver side of case
 - **Date Code:** Cast into case near serial number
 - **NAPCO Tag:** Riveted aluminum tag with model and serial
+- **Matched Sets:** Transfer case and front axle serial numbers should match on original installations
 
 ---
 
 ## Front Axle Specifications
 
-### Dana/Spicer Model 44 Front Axle
+### NAPCO Front Axle Assembly
 
-NAPCO utilized the robust Dana 44 axle assembly with custom steering knuckles designed for the conversion.
+NAPCO's Powr-Pak kit utilized front axle assemblies with NAPCO-specific steering knuckles and housings. Early kits (1955-1959) used components largely sourced from GM/Chevrolet parts, while later factory-installed systems (1960+) used Dana 44 assemblies.
+
+> **Note:** Historical documentation often references "Dana 44" for NAPCO trucks, but period sources indicate the Powr-Pak kit "consisted of 85% readily available Chevrolet parts." The NAPCO front axle housing can be identified by raised "N-A-P-C-O" lettering cast into the forward side of the housing.
+
+#### NAPCO Model Numbers
+
+| Application | NAPCO Model | Notes |
+|-------------|-------------|-------|
+| 1955-1959 Chevrolet 3100 (½ ton) | 3104 | Designed for Hotchkiss drive trucks |
+| 1955-1959 Chevrolet 3600 (¾ ton) | 3604 | Heavier duty |
+| 1955-1959 GMC equivalents | 3xxx series | Similar designations |
 
 #### General Specifications
 
 | Specification | Value |
 |---------------|-------|
-| **Model** | Dana/Spicer 44 |
+| **Housing** | NAPCO-specific with cast "NAPCO" lettering |
 | **Type** | Full-floating, open knuckle |
 | **Axle Tube Diameter** | 2.5" OD |
-| **Ring Gear Diameter** | 8.5" |
+| **Ring Gear Diameter** | 8.5" (approximate) |
 | **Carrier Type** | Removable ("pumpkin") |
-| **Axle Shaft Spline Count** | 19 spline (early), 30 spline (late) |
+| **Axle Shaft Spline Count** | 19 spline (1955-1959) |
 | **U-Joint Size** | Spicer 1310 |
 | **Track Width** | Matched to rear axle |
 
@@ -304,13 +322,14 @@ NAPCO required relocated spring hanger brackets to accommodate the Dana 44 front
 
 Both front and rear axles must have matching gear ratios.
 
-| Ratio | Typical Use | Ring/Pinion Teeth |
-|-------|-------------|-------------------|
-| 3.73:1 | Highway | 41/11 |
-| 4.10:1 | Mixed use | 41/10 |
-| 4.56:1 | Off-road/towing | 41/9 |
-| 4.88:1 | Heavy off-road | 39/8 |
-| 5.38:1 | Crawler | 43/8 |
+| Ratio | Typical Use | Ring/Pinion Teeth | Notes |
+|-------|-------------|-------------------|-------|
+| 3.90:1 | Standard 3100 | 39/10 | Stock ½ ton ratio |
+| 3.73:1 | Highway | 41/11 | Better fuel economy |
+| 4.10:1 | Mixed use | 41/10 | Popular upgrade |
+| 4.56:1 | Off-road/towing | 41/9 | Heavy loads |
+| 4.88:1 | Heavy off-road | 39/8 | Crawler |
+| 5.38:1 | Extreme crawler | 43/8 | Rare |
 
 ### Overall Crawl Ratio Calculation
 

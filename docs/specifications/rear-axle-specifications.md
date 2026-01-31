@@ -212,12 +212,13 @@ Similar to 3600 but with heavier duty components:
 
 **Critical:** Front and rear axle ratios MUST match on NAPCO-equipped trucks.
 
-| Front Axle Ratio | Required Rear Ratio |
-|------------------|---------------------|
-| 3.73:1 | 3.73:1 |
-| 4.10:1 | 4.10:1 |
-| 4.56:1 | 4.56:1 |
-| 4.88:1 | 4.88:1 |
+| Front Axle Ratio | Required Rear Ratio | Notes |
+|------------------|---------------------|-------|
+| 3.90:1 | 3.90:1 | Stock 3100 ratio (most common) |
+| 3.73:1 | 3.73:1 | Highway gearing |
+| 4.10:1 | 4.10:1 | Popular upgrade |
+| 4.56:1 | 4.56:1 | Stock 3600 ratio |
+| 4.88:1 | 4.88:1 | Off-road/heavy towing |
 
 ### Calculating Overall Ratio
 
@@ -778,18 +779,20 @@ If you prefer professional rebuilding:
 
 ## Your Axle Information
 
-Record your rear axle specifications:
+This truck's rear axle specifications:
 
 | Item | Value | Notes |
 |------|-------|-------|
-| **Axle Type** | | Semi-float / Full-float |
-| **Ring Gear Size** | | |
-| **Gear Ratio** | | |
-| **Spline Count** | | |
-| **Casting Number** | | |
-| **Date Code** | | |
-| **Current Condition** | | |
-| **Planned Upgrades** | | |
+| **Axle Type** | Semi-floating | Standard for 3100 series |
+| **Ring Gear Size** | ~8.5" | Standard 3100 |
+| **Gear Ratio** | 3.90:1 | Must match front (NAPCO 3.9:1) |
+| **Spline Count** | 10 | Standard 3100 |
+| **Casting Number** | | Check top of housing |
+| **Date Code** | | Check housing for date stamp |
+| **Current Condition** | | Inspect during restoration |
+| **Planned Upgrades** | | Consider limited slip for 4WD use |
+
+> **Note:** For NAPCO-equipped trucks, front and rear axle ratios MUST match. This truck's front axle is 3.9:1 per the NAPCO tag, so the rear should be 3.90:1.
 
 ---
 

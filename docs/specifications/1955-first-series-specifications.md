@@ -206,9 +206,13 @@ Powerglide automatic was available but uncommon in trucks:
 
 | Specification | Value |
 |---------------|-------|
-| **Type** | Dana/Spicer 44, full-floating |
-| **Ratios** | Must match rear axle |
-| **Locking Hubs** | Warn or equivalent |
+| **Housing** | NAPCO-specific (cast "NAPCO" lettering) |
+| **Type** | Full-floating, open knuckle |
+| **NAPCO Model** | 3104 (for 3100 series) |
+| **Ratios** | Must match rear axle (typically 3.90:1 for 3100) |
+| **Locking Hubs** | Warn, Cutlass, or drive flanges |
+
+> **Note:** Historical sources often reference "Dana 44" but period documentation indicates NAPCO kits used 85% GM/Chevrolet sourced components. The front axle can be identified by raised "N-A-P-C-O" lettering on the housing.
 
 ---
 
@@ -601,18 +605,21 @@ To confirm you have a 1955 First Series (not Second Series):
 
 ## Your Vehicle's Specifications
 
-Record your specific truck's information here:
+This truck's specific information (recorded from data plates and tags):
 
 | Item | Value | Notes |
 |------|-------|-------|
-| **Series** | | 3100, 3600, 3800 |
-| **Wheelbase** | | 114", 123.25", 137" |
-| **Engine Number** | | |
-| **Transmission Type** | | 3-spd, 4-spd, Powerglide |
-| **Rear Axle Ratio** | | |
-| **Paint Code** | | |
-| **NAPCO Equipped** | | Yes/No |
-| **NAPCO Transfer Case #** | | |
+| **Serial Number** | H55J006591 | Decoded: 3100 series, 1955, Janesville WI |
+| **Series** | 3100 (½ ton) | Confirmed by serial and door emblem |
+| **Wheelbase** | 114" | Standard 3100 pickup |
+| **Engine** | 235ci Thriftmaster I6 | 105 HP @ 3600 RPM (per data plate) |
+| **Transmission Type** | | Check for floor shift (4-spd) or column (3-spd) |
+| **Rear Axle Ratio** | 3.90:1 | Should match front axle |
+| **Paint Code** | Two-tone: White over Red | White cab/roof, red body/fenders |
+| **GVW Rating** | 4800 LB | Per Chevrolet data plate |
+| **NAPCO Equipped** | Yes | Original matched set |
+| **NAPCO Transfer Case** | Model 3104, Serial 4C5007 | Per NAPCO tag |
+| **NAPCO Front Axle** | Model 3104, Serial 4C5007, Ratio 3.9:1 | Per NAPCO tag |
 
 ---
 
