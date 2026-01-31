@@ -354,11 +354,11 @@ For valuable trucks, consider:
 
 | Item | Your Truck | Notes |
 |------|------------|-------|
-| **Serial Number (complete)** | | From door pillar plate |
-| **Series** | | 3100, 3600, 3800 |
-| **Assembly Plant** | | Decode from letter |
-| **Model Year** | | Should be 55 |
-| **Sequence Number** | | |
+| **Serial Number (complete)** | H55J006591 | From Chevrolet data plate |
+| **Series** | 3100 | 1/2 ton pickup (H prefix) |
+| **Assembly Plant** | Janesville, WI | J = Janesville, Wisconsin |
+| **Model Year** | 1955 | 55 in serial number |
+| **Sequence Number** | 006591 | Production number 6591 |
 
 ### Body Plate Information
 
@@ -367,13 +367,15 @@ For valuable trucks, consider:
 | **Style Number** | | |
 | **Body Number** | | |
 | **Trim Code** | | |
-| **Paint Code** | | |
+| **Paint Code** | | Two-tone: White over Red |
 
 ### Engine Information
 
 | Item | Your Truck | Notes |
 |------|------------|-------|
-| **Engine Number** | | Right side of block |
+| **Engine Type** | 235ci Thriftmaster I6 | Per data plate HP rating |
+| **Horsepower** | 105 HP @ 3600 RPM | Chevrolet data plate |
+| **Engine Number** | | Right side of block, near rear |
 | **Casting Number** | | Left side of block |
 | **Casting Date** | | If visible |
 
@@ -381,11 +383,14 @@ For valuable trucks, consider:
 
 | Item | Your Truck | Notes |
 |------|------------|-------|
-| **Transfer Case Model** | | Spicer |
-| **Transfer Case Serial** | | From tag |
-| **Front Axle Type** | | Dana 44 |
-| **Front Axle Casting** | | |
+| **Transfer Case Model** | 3104 | NAPCO tag on housing |
+| **Transfer Case Serial** | 4C5007 | Matches front axle serial |
+| **Front Axle Model** | 3104 | NAPCO tag on axle |
+| **Front Axle Serial** | 4C5007 | Matches transfer case serial |
+| **Front Axle Ratio** | 3.9:1 | Per NAPCO tag |
 | **Locking Hub Type** | | Warn, Cutlass, etc. |
+
+**Note:** Matching serial numbers (4C5007) on transfer case and front axle confirm this is an original matched NAPCO Powr-Pak installation.
 
 ---
 

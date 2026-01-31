@@ -314,16 +314,27 @@ NAPCO began offering conversions for Chevrolet trucks in 1954, making 1955 First
 
 ## Vehicle Documentation
 
+### Serial Number Decoded: H55J006591
+
+| Element | Value | Meaning |
+|---------|-------|---------|
+| **H** | Series | 3100 series (1/2 ton pickup) |
+| **55** | Year | 1955 model year |
+| **J** | Plant | Janesville, Wisconsin assembly |
+| **006591** | Sequence | Production number 6591 |
+
 ### Record Your Truck's Information
 
 | Item | Value | Notes |
 |------|-------|-------|
 | **Serial Number** | H55J006591 | Per Chevrolet data plate |
-| **VIN** | | Not visible in photos - check door jamb or frame |
-| **Engine Number** | | 105 HP @ 3600 RPM (per data plate) |
+| **Assembly Plant** | Janesville, Wisconsin | Decoded from "J" in serial |
+| **Engine** | 235ci Thriftmaster I6 | 105 HP @ 3600 RPM (per data plate) |
+| **Engine Number** | | Check right side of block, near rear |
 | **Body Number** | | |
 | **NAPCO Transfer Case #** | Model 3104, Serial 4C5007 | Tag on transfer case housing |
 | **NAPCO Front Axle #** | Model 3104, Serial 4C5007 | Tag on front axle, Ratio 3.9:1 |
+| **NAPCO Installation** | Original matched set | Both components share serial 4C5007 |
 | **Paint Code** | Two-tone: White over Red | White cab/roof, red body/fenders |
 | **Trim Code** | | |
 | **Date Acquired** | | |
@@ -331,7 +342,7 @@ NAPCO began offering conversions for Chevrolet trucks in 1954, making 1955 First
 | **Current Mileage** | | Odometer not readable in photos |
 | **Known History** | "BARW 6000" marked on door | Previous commercial use? |
 | **GVW Rating** | 4800 LB | Per Chevrolet data plate |
-| **Series** | 3100 (1/2 ton) | Confirmed by door emblem |
+| **Series** | 3100 (1/2 ton) | Confirmed by serial and door emblem |
 
 ---
 
