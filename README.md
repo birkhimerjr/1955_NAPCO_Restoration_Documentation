@@ -318,17 +318,19 @@ NAPCO began offering conversions for Chevrolet trucks in 1954, making 1955 First
 
 | Item | Value | Notes |
 |------|-------|-------|
-| **VIN** | | |
-| **Engine Number** | | |
+| **VIN** | | Not visible in photos - check door jamb or frame |
+| **Engine Number** | | 105 HP @ 3600 RPM (per data plate) |
 | **Body Number** | | |
-| **NAPCO Transfer Case #** | | |
-| **NAPCO Axle #** | | |
-| **Paint Code** | | |
+| **NAPCO Transfer Case #** | Model 5104, Serial 4C5007 | Tag on transfer case housing |
+| **NAPCO Axle #** | Model 5107, Serial 4C5007 | Tag on front axle, Ratio 5.83:1 |
+| **Paint Code** | Two-tone: White over Red | White cab/roof, red body/fenders |
 | **Trim Code** | | |
 | **Date Acquired** | | |
 | **Purchase Price** | | |
-| **Current Mileage** | | |
-| **Known History** | | |
+| **Current Mileage** | | Odometer not readable in photos |
+| **Known History** | "BARW 6000" marked on door | Previous commercial use? |
+| **GVW Rating** | 4800 LB | Per Chevrolet data plate |
+| **Series** | 3100 (1/2 ton) | Confirmed by door emblem |
 
 ---
 
