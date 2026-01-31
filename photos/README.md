@@ -74,13 +74,38 @@ YYYY-MM-DD_category_description_##.jpg
 
 ---
 
-## Photo Log Template
-
-Track your photo sessions:
+## Photo Log
 
 | Date | Session | Photos | Notes |
 |------|---------|--------|-------|
-| 2026-01-30 | Initial condition | 0 | Pending |
+| 2023-08-02 | NAPCO tags & frame | 19 | Front axle tags, transfer case tags, frame condition |
+| 2023-12-20 | Frame details | 4 | Steering box mount, crossmember rust |
+| 2025-08-01 | Frame inspection | 5 | Crossmembers, steering linkage, support brackets |
+| 2025-08-15 | Data plate | 1 | Chevrolet 4800 LB GVW plate |
+| 2026-01-02 | Floor/running board | 1 | Diamond plate floor condition |
+| 2026-01-12 | Suspension/axles | 6 | Front drum, NAPCO axle, leaf springs |
+| 2026-01-13 | NAPCO components | 12 | Steering knuckles, coil springs, spring perch castings |
+| 2026-01-17 | Cab/interior | 4 | Rear window, headliner |
+| 2026-01-21 | NAPCO front diff | 3 | Front differential, wheel |
+| Unknown | Historical photos | 16 | Overall views, interior, engine, NAPCO emblems |
+
+**Total: 71 photos documented**
+
+---
+
+## Photo Categories Summary
+
+| Category | Count | Description |
+|----------|-------|-------------|
+| detail | 9 | NAPCO tags, data plates, emblems |
+| frame | 14 | Frame rails, crossmembers, brackets |
+| napco | 18 | Transfer case, front axle, differential, steering |
+| susp | 5 | Leaf springs, shackles, coil springs |
+| brakes | 1 | Front brake drum |
+| body | 10 | Fenders, doors, bed, cab |
+| interior | 6 | Dashboard, floor, headliner |
+| engine | 1 | Fan and water pump |
+| overall | 7 | Full vehicle shots |
 
 ---
 
