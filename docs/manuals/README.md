@@ -6,6 +6,17 @@ This directory contains technical service documentation for the 1955 First Serie
 
 ---
 
+## Production Years & Manual Applicability
+
+This truck is a **1955 First Series**, the final year of the **Advance Design** generation (model years **1947–1955**). The 1955 First Series itself was built only from **October 1954 through March 1955**, when it was replaced by the all-new Second Series "Task Force" trucks.
+
+**Manuals must comport to these production years.** When selecting documentation:
+
+- ✅ **Correct for this truck:** Manuals covering **1947–1955** (Advance Design) and the **1954–1955** First Series specifically.
+- ⚠️ **NOT for this truck:** Manuals covering **1955 Second Series and later** (e.g., `1955–59`, `1956–63`). Those document the Task Force generation introduced in March 1955 and do **not** cover the Advance Design First Series. They are listed below only where their content overlaps (generic NAPCO procedures), and are flagged as such.
+
+---
+
 ## Downloaded Documentation
 
 ### Wiring Diagrams
@@ -26,7 +37,9 @@ Located in `assembly/`:
 
 | File | Description | Size | Source |
 |------|-------------|------|--------|
-| [1955-59-factory-assembly-manual.pdf](assembly/1955-59-factory-assembly-manual.pdf) | Chevrolet Truck Factory Assembly Manual | 22 MB | TriFive.com |
+| [1955-59-factory-assembly-manual.pdf](assembly/1955-59-factory-assembly-manual.pdf) | Chevrolet Truck Factory Assembly Manual (⚠️ **1955 Second Series / Task Force, 1955–1959**) | 22 MB | TriFive.com |
+
+> ⚠️ **Does not comport with this truck's production years.** The `1955–59` assembly manual covers the **Second Series "Task Force"** trucks (built March 1955 onward), **not** the 1955 First Series Advance Design truck. For First Series assembly reference, use **1947–1955 Advance Design** documentation (the `1954–1955` First Series shares its platform with 1954 trucks). This file is retained only for shared hardware and NAPCO-generic content.
 
 ---
 
@@ -49,9 +62,11 @@ Detailed restoration data at Old Car Manual Project:
 
 | Item | Source | Est. Price | Notes |
 |------|--------|------------|-------|
-| 1955-59 NAPCO 4x4 Shop Manual | OldChevyTrucks.com | ~$15-25 | 36-page NAPCO service procedures |
-| 1956-63 NAPCO 4x4 Parts Manual | ClassicParts.com | ~$12 | NAPCO parts diagrams |
-| 1954-62 NAPCO 3/4 & 1 Ton Install Manual | ClassicParts.com | ~$11 | Installation procedures |
+| 1954-62 NAPCO 3/4 & 1 Ton Install Manual | ClassicParts.com | ~$11 | ✅ Spans this truck's years (1954–55) — installation procedures |
+| 1955-59 NAPCO 4x4 Shop Manual | OldChevyTrucks.com | ~$15-25 | ⚠️ Task Force-era range; NAPCO service procedures are largely generic and overlap, but it post-dates the First Series |
+| 1956-63 NAPCO 4x4 Parts Manual | ClassicParts.com | ~$12 | ⚠️ Second Series and later; use only for shared NAPCO component part numbers |
+
+> **NAPCO documentation note:** NAPCO conversions began for Chevrolet in 1954, so the **1954–55** era is what comports with this First Series truck. Where only later (`1955–59` / `1956–63`) NAPCO manuals exist, they're usable for *generic* NAPCO procedures and shared components, but always cross-check against 1954–1955 First Series specifics.
 
 ### Chevrolet Factory Manuals
 
@@ -140,4 +155,4 @@ For complete factory manuals, consider purchasing reproduction copies from legit
 
 ---
 
-*Last Updated: January 2026*
+*Last Updated: June 2026*
